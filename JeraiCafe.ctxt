@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=JeraiCafe
+comment1.params=drinkId\ customerName\ paymentType\ preparationType\ customerContactNumber\ drinkAmount\ totalPayment
+comment1.target=JeraiCafe(java.lang.String,\ java.lang.String,\ char,\ char,\ java.lang.String,\ int,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getDrinkId()
+comment3.params=drinkId
+comment3.target=void\ setDrinkId(java.lang.String)
+comment4.params=
+comment4.target=char\ getPreparationType()
+comment5.params=preparationType
+comment5.target=void\ setPreparationType(char)
+comment6.params=
+comment6.target=int\ getDrinkAmount()
+comment7.params=drinkAmount
+comment7.target=void\ setDrinkAmount(int)
+comment8.params=
+comment8.target=double\ calculateTotalPrice()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
